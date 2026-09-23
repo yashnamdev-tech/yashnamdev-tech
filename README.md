@@ -1,15 +1,248 @@
-# 💫 Hi 👋, I'm Yash Namdev
+# 👋 Hi, I'm Yash Namdev
 
+🎓 **Master of Computer Applications (MCA)** – IIIT Vadodara  
+💻 **C++ | Data Structures & Algorithms | Problem Solving**  
+📚 Currently pursuing my **MCA 2nd Year**  
+🚀 Preparing for **Software Development and Internship Opportunities**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yash-namdev-9444372b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namdevyash2003@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# 🌟 About Me
 
+I am an MCA student at **IIIT Vadodara**, with a strong interest in **software development, Data Structures and Algorithms, C++, and problem solving**.
 
+My GitHub serves as a structured learning portfolio where I document my **DSA practice, programming problems, academic work, projects, and software development journey**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I believe that **strong fundamentals, consistent practice, and learning by solving problems** are the keys to becoming a better software developer.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🎓 Academic Journey
+
+| Program                               | Institution                              | Status   |
+| ------------------------------------- | ---------------------------------------- | -------- |
+| Master of Computer Applications (MCA) | IIIT Vadodara | Pursuing |
+| MCA 2nd Year                          | IIIT Vadodara | Current  |
+
+---
+
+# 💻 Technical Skills
+
+| Category             | Skills                                                                                   |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| Programming          | C++                                                                                      |
+| Data Structures      | Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs                             |
+| Algorithms           | Sorting, Searching, Recursion, Sliding Window, Two Pointers, Greedy, Dynamic Programming |
+| Problem Solving      | LeetCode, Codeforces                                                                     |
+| Development Tools    | Git, GitHub, VS Code                                                                     |
+| Operating System     | Linux / Ubuntu                                                                           |
+| Core CS              | Data Structures & Algorithms, DBMS, Computer Networks                                    |
+| Software Development | REST APIs, Web Services, Collaborative Applications                                      |
+
+---
+
+# 🚀 Currently Learning
+
+* Data Structures and Algorithms
+* Advanced C++ Problem Solving
+* Competitive Programming
+* LeetCode Problem Solving
+* Codeforces Problem Solving
+* Database Management Systems
+* Computer Networks
+* Software Development
+* Git & GitHub
+* Core Computer Science Fundamentals
+
+---
+
+# 📚 Featured Learning Repositories
+
+## 💻 DSA & Problem Solving
+
+### 🧩 LeetCode DSA
+
+A structured collection of my LeetCode problem-solving journey.
+
+Topics include:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Hashing
+* Sorting
+* Searching
+* Trees
+* Graphs
+* Dynamic Programming
+* Sliding Window
+* Two Pointers
+* Greedy Algorithms
+
+---
+
+## 🧠 Competitive Programming
+
+Practice and problem-solving from competitive programming platforms.
+
+* Codeforces Problems
+* Algorithmic Problem Solving
+* Implementation Problems
+* Mathematical Problems
+* Problem-solving patterns
+
+---
+
+## 🎓 Academic Learning
+
+My academic repositories contain implementations, assignments, practical work, and learning material related to my MCA coursework.
+
+* Data Structures & Algorithms
+* Database Management Systems
+* Computer Networks
+* Algorithms
+* Programming
+* Software Development
+
+---
+
+# 🚀 Featured Project
+
+## 👨‍💻 Real-Time Collaborative Code Editor
+
+A collaborative online code editor designed to allow multiple users to work on code together in real time.
+
+### Key Concepts
+
+* Real-time collaboration
+* Code editing
+* Monaco Editor
+* Yjs
+* Multi-user synchronization
+* Software architecture
+* Web-based development
+
+This project is part of my journey toward understanding how real-world software systems are designed and developed.
+
+---
+
+# 🏆 GitHub Highlights
+
+* 📂 Structured DSA Learning Repository
+* 💻 Regular LeetCode Practice
+* 🧠 Problem-Solving Focus
+* 🚀 Software Development Projects
+* 📚 Academic Learning & Practical Implementations
+* 🔧 Git & GitHub Practice
+* 🐧 Linux Development Environment
+* 📈 Continuous Technical Improvement
+
+---
+
+# 🧩 Problem Solving
+
+I regularly practice programming problems to improve my understanding of algorithms and problem-solving techniques.
+
+### Platforms
+
+* **LeetCode**
+* **Codeforces**
+
+### Focus Areas
+
+* Problem Understanding
+* Brute Force → Optimized Solutions
+* Time & Space Complexity
+* Data Structures
+* Algorithm Design
+* Edge Cases
+* Clean C++ Implementations
+
+---
+
+# 🛣️ Learning Roadmap
+
+## ✅ Completed / Practiced
+
+* C++ Fundamentals
+* Basic Data Structures
+* Basic Algorithms
+* Arrays
+* Strings
+* Hashing
+* Sorting
+* Searching
+* Stack & Queue
+* Git & GitHub
+* Linux Basics
+* Regular Problem Solving
+
+---
+
+## 📖 In Progress
+
+* Advanced Data Structures
+* Advanced Algorithms
+* Dynamic Programming
+* Trees
+* Graphs
+* Competitive Programming
+* DBMS
+* Computer Networks
+* Software Development
+* LeetCode Problem Solving
+
+---
+
+## 🎯 Future Goals
+
+* Advanced DSA
+* Competitive Programming
+* System Design Fundamentals
+* Backend Development
+* Full-Stack Development
+* Software Engineering
+* Real-World Projects
+* Open Source Contributions
+* Technical Interview Preparation
+
+---
+
+# 🌟 Learning Philosophy
+
+> **Consistency beats intensity.**
+
+> **Understanding beats memorization.**
+
+> **Practice turns concepts into skills.**
+
+> **Every problem is an opportunity to learn.**
+
+> **Strong fundamentals build strong developers.**
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become a **skilled Software Developer** with strong foundations in **Data Structures, Algorithms, C++, Problem Solving, and Computer Science fundamentals**.
+
+I aim to continuously improve through **problem solving, projects, open-source contributions, and practical software development** while preparing for opportunities in the software industry.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+namdevyash2003@gmail.com
+
+💼 **LinkedIn**  
+
+linkedin.com/in/yash-namdev-9444372b5
+
+---
+
+# ⭐ Quote
+
+> **"Learning • Solving • Building • Improving Every Day."**
