@@ -239,7 +239,7 @@ namdevyash2003@gmail.com
 
 💼 **LinkedIn**  
 
-linkedin.com/in/yash-namdev-9444372b5
+https://www.linkedin.com/in/yash-namdev-9444372b5/
 
 ---
 
